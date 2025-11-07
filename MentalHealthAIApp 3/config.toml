@@ -1,0 +1,6 @@
+[openai]
+api_key = "your_openai_api_key_here"
+
+[app]
+name = "Mental Health AI App"
+author = "Your Name"
